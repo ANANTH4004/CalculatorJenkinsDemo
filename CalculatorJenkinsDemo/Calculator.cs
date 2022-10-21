@@ -14,7 +14,7 @@ namespace CalculatorJenkinsDemo
         }
         public int Sub(int i , int j)
         {
-           // return i - j;
+            return i - j;
         }
         public int Mul(int i , int j)
         {
